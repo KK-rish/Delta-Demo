@@ -1,2 +1,8 @@
 # Delta-Demo
-This is the Demo repository for Delta Projects.
+This i
+
+# Teacher 
+Shraddha Khapra
+
+# Student
+Krishna Chaurasiya
